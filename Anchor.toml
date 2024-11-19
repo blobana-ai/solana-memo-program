@@ -11,7 +11,7 @@ anchor_memo = "FQAYV6Ru2VyZU24EpoY1Ms8nZHTn5qNEdYZopgzhfHkH"
 url = "https://api.apr.dev"
 
 [provider]
-cluster = "https://api.devnet.solana.com"
+cluster = "https://api.mainnet-beta.solana.com"
 wallet = "/home/rektdev/.config/solana/id.json"
 
 [scripts]

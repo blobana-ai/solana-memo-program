@@ -3,7 +3,7 @@ use anchor_lang::prelude::*;
 declare_id!("FQAYV6Ru2VyZU24EpoY1Ms8nZHTn5qNEdYZopgzhfHkH");
 
 // NOTE: Replace with your wallet's public key
-const OWNER: &str = "Fuoz6Hz19tDSGeBBnyGjTapw1mKAVWA1b1HqR3XnNktx";
+const OWNER: &str = "BVMBzPv6uyZzW7jjL578SWiWd8XmZ9YJN2UBEmpZY6aY";
 
 #[program]
 pub mod anchor_memo {
